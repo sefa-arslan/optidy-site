@@ -1,0 +1,12 @@
+# Optidy
+
+> Optidy is an iPhone and iPad utility for reviewing photo and video storage while keeping every deletion under the user's control.
+
+- Official site: https://optidy.oda.so/
+- Product facts: https://optidy.oda.so/ai-info
+- Support: https://optidy.oda.so/support/
+- Privacy policy: https://optidy.oda.so/privacy/
+- Terms of use: https://optidy.oda.so/terms/
+- Support email: optidy@oda.so
+
+Optidy analyzes the photos, videos, storage screenshots and Files folders the user explicitly permits. Media analysis stays on the device and is not uploaded to an ODA server. Optidy can identify review candidates, create still copies of Live Photos and make smaller video copies. It never deletes media automatically.
